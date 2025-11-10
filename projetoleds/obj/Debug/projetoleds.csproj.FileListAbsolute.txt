@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\projetoleds\projetoleds\bin\Debug\projetoleds.exe.config
+C:\Users\aluno\source\repos\projetoleds\projetoleds\bin\Debug\projetoleds.exe
+C:\Users\aluno\source\repos\projetoleds\projetoleds\bin\Debug\projetoleds.pdb
+C:\Users\aluno\source\repos\projetoleds\projetoleds\obj\Debug\projetoleds.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projetoleds\projetoleds\obj\Debug\projetoleds.Form1.resources
+C:\Users\aluno\source\repos\projetoleds\projetoleds\obj\Debug\projetoleds.Properties.Resources.resources
+C:\Users\aluno\source\repos\projetoleds\projetoleds\obj\Debug\projetoleds.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\projetoleds\projetoleds\obj\Debug\projetoleds.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projetoleds\projetoleds\obj\Debug\projetoleds.exe
+C:\Users\aluno\source\repos\projetoleds\projetoleds\obj\Debug\projetoleds.pdb
+C:\Users\aluno\source\repos\projetoleds\projetoleds\obj\Debug\projetoleds.exe.config

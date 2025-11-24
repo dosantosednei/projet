@@ -14,6 +14,9 @@ namespace projetoleds
     public partial class Form1 : Form
     {
         private Leds leds;
+
+        const int ENDERECO_PORTA = 888;
+        
         public Form1()
         {
             InitializeComponent();
@@ -21,8 +24,22 @@ namespace projetoleds
             atualizaInterface();
         }
 
+        
+
         private void atualizaInterface()
         {
+
+        try
+            {
+                Paralela.EnviarSinal(ENDERECO_PORTA, controleLeds.GetEstadoAtual());
+            }
+            catch
+            {
+                
+            }
+
+
+            
             txtDadoDec.Text = leds.getDado().ToString();
             txtDadoBin.Text = Convert.ToString(leds.getDado(), 2);
             txtDadoHex.Text = Convert.ToString(leds.getDado(), 16).ToUpper();
@@ -151,3 +168,4 @@ namespace projetoleds
        
         
 }
+
